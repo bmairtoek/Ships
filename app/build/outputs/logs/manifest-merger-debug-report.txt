@@ -1,0 +1,243 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Bmairtoek\Downloads\MyApplication4-20180329T122605Z-001\MyApplication4\app\src\main\AndroidManifest.xml:2:1-64:12
+INJECTED from C:\Users\Bmairtoek\Downloads\MyApplication4-20180329T122605Z-001\MyApplication4\app\src\main\AndroidManifest.xml:2:1-64:12
+INJECTED from C:\Users\Bmairtoek\Downloads\MyApplication4-20180329T122605Z-001\MyApplication4\app\src\main\AndroidManifest.xml:2:1-64:12
+INJECTED from C:\Users\Bmairtoek\Downloads\MyApplication4-20180329T122605Z-001\MyApplication4\app\src\main\AndroidManifest.xml:2:1-64:12
+MERGED from [pl.droidsonroids.gif:android-gif-drawable:1.2.3] C:\Users\Bmairtoek\.gradle\caches\transforms-1\files-1.1\android-gif-drawable-1.2.3.aar\138f6812b4359622e0961108aa5f3464\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Bmairtoek\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\88ddfba53e0db3a747dfce4585524c30\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Bmairtoek\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\5c29153aefbdb19ccda7fc2ddae5d402\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Bmairtoek\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\463d8343133ab4f51fb3ca0de69fb755\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Bmairtoek\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\92bc1f999c700526d991e5759d8b3641\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Bmairtoek\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\7288f37d4c87c7226e6251486f912785\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Bmairtoek\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\2eb742314ba07b301b8ef0e0f4bab6c1\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Bmairtoek\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\0815ed0711a30d5acb5a01f1c49dfcd1\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Bmairtoek\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\b1516dd09c306c99c44872a5983cb624\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Bmairtoek\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\c85d7d787199c3ba55e52eea04471193\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Bmairtoek\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\2f8bfb6179d0d58ffdca3b5834cd2715\AndroidManifest.xml:17:1-31:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Bmairtoek\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\21f288aaf193fa22c9d865b35450484a\AndroidManifest.xml:17:1-30:12
+INJECTED from C:\Users\Bmairtoek\Downloads\MyApplication4-20180329T122605Z-001\MyApplication4\app\src\main\AndroidManifest.xml:2:1-64:12
+INJECTED from C:\Users\Bmairtoek\Downloads\MyApplication4-20180329T122605Z-001\MyApplication4\app\src\main\AndroidManifest.xml:2:1-64:12
+INJECTED from C:\Users\Bmairtoek\Downloads\MyApplication4-20180329T122605Z-001\MyApplication4\app\src\main\AndroidManifest.xml:2:1-64:12
+	package
+		ADDED from C:\Users\Bmairtoek\Downloads\MyApplication4-20180329T122605Z-001\MyApplication4\app\src\main\AndroidManifest.xml:3:5-50
+		INJECTED from C:\Users\Bmairtoek\Downloads\MyApplication4-20180329T122605Z-001\MyApplication4\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Bmairtoek\Downloads\MyApplication4-20180329T122605Z-001\MyApplication4\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Bmairtoek\Downloads\MyApplication4-20180329T122605Z-001\MyApplication4\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Bmairtoek\Downloads\MyApplication4-20180329T122605Z-001\MyApplication4\app\src\main\AndroidManifest.xml:2:1-64:12
+		INJECTED from C:\Users\Bmairtoek\Downloads\MyApplication4-20180329T122605Z-001\MyApplication4\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Bmairtoek\Downloads\MyApplication4-20180329T122605Z-001\MyApplication4\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Bmairtoek\Downloads\MyApplication4-20180329T122605Z-001\MyApplication4\app\src\main\AndroidManifest.xml:2:1-64:12
+		INJECTED from C:\Users\Bmairtoek\Downloads\MyApplication4-20180329T122605Z-001\MyApplication4\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Bmairtoek\Downloads\MyApplication4-20180329T122605Z-001\MyApplication4\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.BLUETOOTH
+ADDED from C:\Users\Bmairtoek\Downloads\MyApplication4-20180329T122605Z-001\MyApplication4\app\src\main\AndroidManifest.xml:5:5-68
+	android:name
+		ADDED from C:\Users\Bmairtoek\Downloads\MyApplication4-20180329T122605Z-001\MyApplication4\app\src\main\AndroidManifest.xml:5:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from C:\Users\Bmairtoek\Downloads\MyApplication4-20180329T122605Z-001\MyApplication4\app\src\main\AndroidManifest.xml:6:5-74
+	android:name
+		ADDED from C:\Users\Bmairtoek\Downloads\MyApplication4-20180329T122605Z-001\MyApplication4\app\src\main\AndroidManifest.xml:6:22-71
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\Bmairtoek\Downloads\MyApplication4-20180329T122605Z-001\MyApplication4\app\src\main\AndroidManifest.xml:7:5-79
+	android:name
+		ADDED from C:\Users\Bmairtoek\Downloads\MyApplication4-20180329T122605Z-001\MyApplication4\app\src\main\AndroidManifest.xml:7:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from C:\Users\Bmairtoek\Downloads\MyApplication4-20180329T122605Z-001\MyApplication4\app\src\main\AndroidManifest.xml:8:5-81
+	android:name
+		ADDED from C:\Users\Bmairtoek\Downloads\MyApplication4-20180329T122605Z-001\MyApplication4\app\src\main\AndroidManifest.xml:8:22-78
+application
+ADDED from C:\Users\Bmairtoek\Downloads\MyApplication4-20180329T122605Z-001\MyApplication4\app\src\main\AndroidManifest.xml:10:5-62:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Bmairtoek\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\88ddfba53e0db3a747dfce4585524c30\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Bmairtoek\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\88ddfba53e0db3a747dfce4585524c30\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Bmairtoek\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\5c29153aefbdb19ccda7fc2ddae5d402\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Bmairtoek\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\5c29153aefbdb19ccda7fc2ddae5d402\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Bmairtoek\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\463d8343133ab4f51fb3ca0de69fb755\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Bmairtoek\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\463d8343133ab4f51fb3ca0de69fb755\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Bmairtoek\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\92bc1f999c700526d991e5759d8b3641\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Bmairtoek\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\92bc1f999c700526d991e5759d8b3641\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Bmairtoek\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\7288f37d4c87c7226e6251486f912785\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Bmairtoek\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\7288f37d4c87c7226e6251486f912785\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Bmairtoek\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\2eb742314ba07b301b8ef0e0f4bab6c1\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Bmairtoek\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\2eb742314ba07b301b8ef0e0f4bab6c1\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Bmairtoek\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\0815ed0711a30d5acb5a01f1c49dfcd1\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Bmairtoek\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\0815ed0711a30d5acb5a01f1c49dfcd1\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Bmairtoek\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\b1516dd09c306c99c44872a5983cb624\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Bmairtoek\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\b1516dd09c306c99c44872a5983cb624\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Bmairtoek\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\c85d7d787199c3ba55e52eea04471193\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Bmairtoek\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\c85d7d787199c3ba55e52eea04471193\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Bmairtoek\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\2f8bfb6179d0d58ffdca3b5834cd2715\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Bmairtoek\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\2f8bfb6179d0d58ffdca3b5834cd2715\AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Bmairtoek\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\21f288aaf193fa22c9d865b35450484a\AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Bmairtoek\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\21f288aaf193fa22c9d865b35450484a\AndroidManifest.xml:24:5-28:19
+	android:supportsRtl
+		ADDED from C:\Users\Bmairtoek\Downloads\MyApplication4-20180329T122605Z-001\MyApplication4\app\src\main\AndroidManifest.xml:15:9-35
+	android:label
+		ADDED from C:\Users\Bmairtoek\Downloads\MyApplication4-20180329T122605Z-001\MyApplication4\app\src\main\AndroidManifest.xml:13:9-31
+	android:roundIcon
+		ADDED from C:\Users\Bmairtoek\Downloads\MyApplication4-20180329T122605Z-001\MyApplication4\app\src\main\AndroidManifest.xml:14:9-54
+	android:icon
+		ADDED from C:\Users\Bmairtoek\Downloads\MyApplication4-20180329T122605Z-001\MyApplication4\app\src\main\AndroidManifest.xml:12:9-47
+	android:allowBackup
+		ADDED from C:\Users\Bmairtoek\Downloads\MyApplication4-20180329T122605Z-001\MyApplication4\app\src\main\AndroidManifest.xml:11:9-35
+	android:theme
+		ADDED from C:\Users\Bmairtoek\Downloads\MyApplication4-20180329T122605Z-001\MyApplication4\app\src\main\AndroidManifest.xml:16:9-40
+activity#com.example.bmairtoek.myapplication.MainActivity
+ADDED from C:\Users\Bmairtoek\Downloads\MyApplication4-20180329T122605Z-001\MyApplication4\app\src\main\AndroidManifest.xml:17:9-25:20
+	android:screenOrientation
+		ADDED from C:\Users\Bmairtoek\Downloads\MyApplication4-20180329T122605Z-001\MyApplication4\app\src\main\AndroidManifest.xml:19:13-49
+	android:name
+		ADDED from C:\Users\Bmairtoek\Downloads\MyApplication4-20180329T122605Z-001\MyApplication4\app\src\main\AndroidManifest.xml:18:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Bmairtoek\Downloads\MyApplication4-20180329T122605Z-001\MyApplication4\app\src\main\AndroidManifest.xml:20:13-24:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Bmairtoek\Downloads\MyApplication4-20180329T122605Z-001\MyApplication4\app\src\main\AndroidManifest.xml:21:17-69
+	android:name
+		ADDED from C:\Users\Bmairtoek\Downloads\MyApplication4-20180329T122605Z-001\MyApplication4\app\src\main\AndroidManifest.xml:21:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Bmairtoek\Downloads\MyApplication4-20180329T122605Z-001\MyApplication4\app\src\main\AndroidManifest.xml:23:17-77
+	android:name
+		ADDED from C:\Users\Bmairtoek\Downloads\MyApplication4-20180329T122605Z-001\MyApplication4\app\src\main\AndroidManifest.xml:23:27-74
+activity#com.example.bmairtoek.myapplication.FullscreenActivity
+ADDED from C:\Users\Bmairtoek\Downloads\MyApplication4-20180329T122605Z-001\MyApplication4\app\src\main\AndroidManifest.xml:26:9-31:54
+	android:screenOrientation
+		ADDED from C:\Users\Bmairtoek\Downloads\MyApplication4-20180329T122605Z-001\MyApplication4\app\src\main\AndroidManifest.xml:30:13-49
+	android:label
+		ADDED from C:\Users\Bmairtoek\Downloads\MyApplication4-20180329T122605Z-001\MyApplication4\app\src\main\AndroidManifest.xml:29:13-62
+	android:configChanges
+		ADDED from C:\Users\Bmairtoek\Downloads\MyApplication4-20180329T122605Z-001\MyApplication4\app\src\main\AndroidManifest.xml:28:13-74
+	android:theme
+		ADDED from C:\Users\Bmairtoek\Downloads\MyApplication4-20180329T122605Z-001\MyApplication4\app\src\main\AndroidManifest.xml:31:13-51
+	android:name
+		ADDED from C:\Users\Bmairtoek\Downloads\MyApplication4-20180329T122605Z-001\MyApplication4\app\src\main\AndroidManifest.xml:27:13-47
+activity#com.example.bmairtoek.myapplication.StartingActivity
+ADDED from C:\Users\Bmairtoek\Downloads\MyApplication4-20180329T122605Z-001\MyApplication4\app\src\main\AndroidManifest.xml:32:9-37:54
+	android:screenOrientation
+		ADDED from C:\Users\Bmairtoek\Downloads\MyApplication4-20180329T122605Z-001\MyApplication4\app\src\main\AndroidManifest.xml:36:13-49
+	android:label
+		ADDED from C:\Users\Bmairtoek\Downloads\MyApplication4-20180329T122605Z-001\MyApplication4\app\src\main\AndroidManifest.xml:35:13-62
+	android:configChanges
+		ADDED from C:\Users\Bmairtoek\Downloads\MyApplication4-20180329T122605Z-001\MyApplication4\app\src\main\AndroidManifest.xml:34:13-74
+	android:theme
+		ADDED from C:\Users\Bmairtoek\Downloads\MyApplication4-20180329T122605Z-001\MyApplication4\app\src\main\AndroidManifest.xml:37:13-51
+	android:name
+		ADDED from C:\Users\Bmairtoek\Downloads\MyApplication4-20180329T122605Z-001\MyApplication4\app\src\main\AndroidManifest.xml:33:13-45
+activity#com.example.bmairtoek.myapplication.EnemyTurn
+ADDED from C:\Users\Bmairtoek\Downloads\MyApplication4-20180329T122605Z-001\MyApplication4\app\src\main\AndroidManifest.xml:38:9-43:54
+	android:screenOrientation
+		ADDED from C:\Users\Bmairtoek\Downloads\MyApplication4-20180329T122605Z-001\MyApplication4\app\src\main\AndroidManifest.xml:42:13-49
+	android:label
+		ADDED from C:\Users\Bmairtoek\Downloads\MyApplication4-20180329T122605Z-001\MyApplication4\app\src\main\AndroidManifest.xml:41:13-62
+	android:configChanges
+		ADDED from C:\Users\Bmairtoek\Downloads\MyApplication4-20180329T122605Z-001\MyApplication4\app\src\main\AndroidManifest.xml:40:13-74
+	android:theme
+		ADDED from C:\Users\Bmairtoek\Downloads\MyApplication4-20180329T122605Z-001\MyApplication4\app\src\main\AndroidManifest.xml:43:13-51
+	android:name
+		ADDED from C:\Users\Bmairtoek\Downloads\MyApplication4-20180329T122605Z-001\MyApplication4\app\src\main\AndroidManifest.xml:39:13-38
+activity#com.example.bmairtoek.myapplication.Host_room
+ADDED from C:\Users\Bmairtoek\Downloads\MyApplication4-20180329T122605Z-001\MyApplication4\app\src\main\AndroidManifest.xml:44:9-49:54
+	android:screenOrientation
+		ADDED from C:\Users\Bmairtoek\Downloads\MyApplication4-20180329T122605Z-001\MyApplication4\app\src\main\AndroidManifest.xml:48:13-49
+	android:label
+		ADDED from C:\Users\Bmairtoek\Downloads\MyApplication4-20180329T122605Z-001\MyApplication4\app\src\main\AndroidManifest.xml:47:13-61
+	android:configChanges
+		ADDED from C:\Users\Bmairtoek\Downloads\MyApplication4-20180329T122605Z-001\MyApplication4\app\src\main\AndroidManifest.xml:46:13-74
+	android:theme
+		ADDED from C:\Users\Bmairtoek\Downloads\MyApplication4-20180329T122605Z-001\MyApplication4\app\src\main\AndroidManifest.xml:49:13-51
+	android:name
+		ADDED from C:\Users\Bmairtoek\Downloads\MyApplication4-20180329T122605Z-001\MyApplication4\app\src\main\AndroidManifest.xml:45:13-38
+activity#com.example.bmairtoek.myapplication.Client_room
+ADDED from C:\Users\Bmairtoek\Downloads\MyApplication4-20180329T122605Z-001\MyApplication4\app\src\main\AndroidManifest.xml:50:9-55:53
+	android:screenOrientation
+		ADDED from C:\Users\Bmairtoek\Downloads\MyApplication4-20180329T122605Z-001\MyApplication4\app\src\main\AndroidManifest.xml:54:13-49
+	android:label
+		ADDED from C:\Users\Bmairtoek\Downloads\MyApplication4-20180329T122605Z-001\MyApplication4\app\src\main\AndroidManifest.xml:53:13-63
+	android:configChanges
+		ADDED from C:\Users\Bmairtoek\Downloads\MyApplication4-20180329T122605Z-001\MyApplication4\app\src\main\AndroidManifest.xml:52:13-74
+	android:theme
+		ADDED from C:\Users\Bmairtoek\Downloads\MyApplication4-20180329T122605Z-001\MyApplication4\app\src\main\AndroidManifest.xml:55:13-51
+	android:name
+		ADDED from C:\Users\Bmairtoek\Downloads\MyApplication4-20180329T122605Z-001\MyApplication4\app\src\main\AndroidManifest.xml:51:13-40
+activity#com.example.bmairtoek.myapplication.Multi_Grid
+ADDED from C:\Users\Bmairtoek\Downloads\MyApplication4-20180329T122605Z-001\MyApplication4\app\src\main\AndroidManifest.xml:56:9-61:53
+	android:screenOrientation
+		ADDED from C:\Users\Bmairtoek\Downloads\MyApplication4-20180329T122605Z-001\MyApplication4\app\src\main\AndroidManifest.xml:60:13-49
+	android:label
+		ADDED from C:\Users\Bmairtoek\Downloads\MyApplication4-20180329T122605Z-001\MyApplication4\app\src\main\AndroidManifest.xml:59:13-63
+	android:configChanges
+		ADDED from C:\Users\Bmairtoek\Downloads\MyApplication4-20180329T122605Z-001\MyApplication4\app\src\main\AndroidManifest.xml:58:13-74
+	android:theme
+		ADDED from C:\Users\Bmairtoek\Downloads\MyApplication4-20180329T122605Z-001\MyApplication4\app\src\main\AndroidManifest.xml:61:13-51
+	android:name
+		ADDED from C:\Users\Bmairtoek\Downloads\MyApplication4-20180329T122605Z-001\MyApplication4\app\src\main\AndroidManifest.xml:57:13-39
+uses-sdk
+INJECTED from C:\Users\Bmairtoek\Downloads\MyApplication4-20180329T122605Z-001\MyApplication4\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Bmairtoek\Downloads\MyApplication4-20180329T122605Z-001\MyApplication4\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Bmairtoek\Downloads\MyApplication4-20180329T122605Z-001\MyApplication4\app\src\main\AndroidManifest.xml
+MERGED from [pl.droidsonroids.gif:android-gif-drawable:1.2.3] C:\Users\Bmairtoek\.gradle\caches\transforms-1\files-1.1\android-gif-drawable-1.2.3.aar\138f6812b4359622e0961108aa5f3464\AndroidManifest.xml:7:5-9:41
+MERGED from [pl.droidsonroids.gif:android-gif-drawable:1.2.3] C:\Users\Bmairtoek\.gradle\caches\transforms-1\files-1.1\android-gif-drawable-1.2.3.aar\138f6812b4359622e0961108aa5f3464\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Bmairtoek\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\88ddfba53e0db3a747dfce4585524c30\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Bmairtoek\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\88ddfba53e0db3a747dfce4585524c30\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Bmairtoek\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\5c29153aefbdb19ccda7fc2ddae5d402\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Bmairtoek\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\5c29153aefbdb19ccda7fc2ddae5d402\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Bmairtoek\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\463d8343133ab4f51fb3ca0de69fb755\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Bmairtoek\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\463d8343133ab4f51fb3ca0de69fb755\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Bmairtoek\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\92bc1f999c700526d991e5759d8b3641\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Bmairtoek\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\92bc1f999c700526d991e5759d8b3641\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Bmairtoek\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\7288f37d4c87c7226e6251486f912785\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Bmairtoek\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\7288f37d4c87c7226e6251486f912785\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Bmairtoek\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\2eb742314ba07b301b8ef0e0f4bab6c1\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Bmairtoek\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\2eb742314ba07b301b8ef0e0f4bab6c1\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Bmairtoek\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\0815ed0711a30d5acb5a01f1c49dfcd1\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Bmairtoek\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\0815ed0711a30d5acb5a01f1c49dfcd1\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Bmairtoek\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\b1516dd09c306c99c44872a5983cb624\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Bmairtoek\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\b1516dd09c306c99c44872a5983cb624\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Bmairtoek\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\c85d7d787199c3ba55e52eea04471193\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Bmairtoek\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\c85d7d787199c3ba55e52eea04471193\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Bmairtoek\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\2f8bfb6179d0d58ffdca3b5834cd2715\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Bmairtoek\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\2f8bfb6179d0d58ffdca3b5834cd2715\AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Bmairtoek\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\21f288aaf193fa22c9d865b35450484a\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Bmairtoek\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\21f288aaf193fa22c9d865b35450484a\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Users\Bmairtoek\Downloads\MyApplication4-20180329T122605Z-001\MyApplication4\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Bmairtoek\Downloads\MyApplication4-20180329T122605Z-001\MyApplication4\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Bmairtoek\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\88ddfba53e0db3a747dfce4585524c30\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from C:\Users\Bmairtoek\Downloads\MyApplication4-20180329T122605Z-001\MyApplication4\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Bmairtoek\Downloads\MyApplication4-20180329T122605Z-001\MyApplication4\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Bmairtoek\Downloads\MyApplication4-20180329T122605Z-001\MyApplication4\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Bmairtoek\Downloads\MyApplication4-20180329T122605Z-001\MyApplication4\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Bmairtoek\Downloads\MyApplication4-20180329T122605Z-001\MyApplication4\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Bmairtoek\Downloads\MyApplication4-20180329T122605Z-001\MyApplication4\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Bmairtoek\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\88ddfba53e0db3a747dfce4585524c30\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Bmairtoek\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\463d8343133ab4f51fb3ca0de69fb755\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Bmairtoek\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\463d8343133ab4f51fb3ca0de69fb755\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Bmairtoek\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\92bc1f999c700526d991e5759d8b3641\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Bmairtoek\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\92bc1f999c700526d991e5759d8b3641\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Bmairtoek\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\7288f37d4c87c7226e6251486f912785\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Bmairtoek\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\7288f37d4c87c7226e6251486f912785\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Bmairtoek\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\2eb742314ba07b301b8ef0e0f4bab6c1\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Bmairtoek\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\2eb742314ba07b301b8ef0e0f4bab6c1\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Bmairtoek\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\0815ed0711a30d5acb5a01f1c49dfcd1\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Bmairtoek\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\0815ed0711a30d5acb5a01f1c49dfcd1\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Bmairtoek\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\b1516dd09c306c99c44872a5983cb624\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Bmairtoek\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\b1516dd09c306c99c44872a5983cb624\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Bmairtoek\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\c85d7d787199c3ba55e52eea04471193\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Bmairtoek\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\c85d7d787199c3ba55e52eea04471193\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Bmairtoek\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\2f8bfb6179d0d58ffdca3b5834cd2715\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Bmairtoek\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\2f8bfb6179d0d58ffdca3b5834cd2715\AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Bmairtoek\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\88ddfba53e0db3a747dfce4585524c30\AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Bmairtoek\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\88ddfba53e0db3a747dfce4585524c30\AndroidManifest.xml:27:13-51
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Bmairtoek\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\21f288aaf193fa22c9d865b35450484a\AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Bmairtoek\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\21f288aaf193fa22c9d865b35450484a\AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Bmairtoek\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\21f288aaf193fa22c9d865b35450484a\AndroidManifest.xml:26:13-58

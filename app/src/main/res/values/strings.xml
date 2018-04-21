@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    <string name="title_activity_fullscreen">FullscreenActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+
+    <string name="title_activity_statring">StatringActivity</string>
+
+    <string name="title_activity_enemy_turn">enemyTurn</string>
+
+    <string name="title_activity_host_room">host_room</string>
+
+    <string name="title_activity_client_room">client_room</string>
+
+    <string name="title_activity_multi__grid">Multi_Grid</string>
+</resources>
