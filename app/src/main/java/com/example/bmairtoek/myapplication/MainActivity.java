@@ -40,15 +40,12 @@ public class MainActivity extends AppCompatActivity {
                 multi();
             }
         });
-        //MediaPlayer mp = MediaPlayer.create(getApplicationContext(), R.raw.ocean_edge);
-        //mp.start();
     }
 
     private void trudnosc(){
         AlertDialog.Builder builder = new AlertDialog.Builder(this);
         builder.setMessage("Wybierz poziom trudności:");
 
-        // add a button
         builder.setNeutralButton("Normalny", new DialogInterface.OnClickListener() {
             @Override
             public void onClick(DialogInterface dialogInterface, int i) {

@@ -157,7 +157,7 @@ public class Multi_Grid extends AppCompatActivity {
                         Multi_Grid.this.runOnUiThread(new Runnable() {
                             @Override
                             public void run() {
-                                errorBox();         //TODO nie działa
+                                errorBox();
                             }
                         });
                         break;
