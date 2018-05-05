@@ -176,7 +176,7 @@ public class StartingActivity extends AppCompatActivity {
         // setup the alert builder
         AlertDialog.Builder builder = new AlertDialog.Builder(this);
         builder.setTitle("Zły układ statków");
-        builder.setMessage("Twoja flota powinna składać się z:\n4x Jednomasztowców\n3x Dwómasztowców\n2x Trójmasztowców\n1x Czteromasztowca\nPonad to statki nie mogą się stykać, ani zakręcać!");
+        builder.setMessage("Twoja flota powinna składać się z:\n4x Jednomasztowców\n3x Dwumasztowców\n2x Trójmasztowców\n1x Czteromasztowca\nPonad to statki nie mogą się stykać, ani zakręcać!");
 
         // add a button
         builder.setPositiveButton("OK", null);
