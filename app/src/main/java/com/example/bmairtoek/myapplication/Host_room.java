@@ -81,7 +81,7 @@ public class Host_room extends AppCompatActivity {
                 startActivity(discoverableIntent);
                 polaczenie = new AcceptThread();
                 polaczenie.start();
-                //TODO można powiedziećczy jest widoczne
+
             }
         });
         ujawnij.setText("Ujawnij");
