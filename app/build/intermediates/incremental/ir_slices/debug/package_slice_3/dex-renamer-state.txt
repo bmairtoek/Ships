@@ -1,0 +1,4 @@
+#Sat Apr 21 20:21:32 CEST 2018
+base.0=C\:\\Users\\Bmairtoek\\Downloads\\MyApplication4-20180329T122605Z-001\\MyApplication4\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\333
+path.0=classes.dex
+renamed.0=classes.dex
